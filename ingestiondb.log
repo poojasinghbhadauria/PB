@@ -1,0 +1,158 @@
+2025-10-31 13:03:47,566 -DEBUG -Logging setup complete.
+2025-10-31 13:03:48,209 -INFO -Ingesting end_inventory.csv in db
+2025-10-31 13:03:51,354 -INFO -------Ingestion complete for end_inventory.csv in db-----
+2025-10-31 13:03:51,354 -INFO -
+Total time taken is 0.06222660144170125 minutes
+2025-10-31 13:03:51,741 -INFO -Ingesting begin_inventory.csv in db
+2025-10-31 13:03:54,283 -INFO -------Ingestion complete for begin_inventory.csv in db-----
+2025-10-31 13:03:54,283 -INFO -
+Total time taken is 0.11103858550389607 minutes
+2025-10-31 13:03:54,311 -INFO -Ingesting vendor_invoice.csv in db
+2025-10-31 13:03:54,449 -INFO -------Ingestion complete for vendor_invoice.csv in db-----
+2025-10-31 13:03:54,449 -INFO -
+Total time taken is 0.11381264130274454 minutes
+2025-10-31 13:03:54,484 -INFO -Ingesting purchase_prices.csv in db
+2025-10-31 13:03:54,735 -INFO -------Ingestion complete for purchase_prices.csv in db-----
+2025-10-31 13:03:54,735 -INFO -
+Total time taken is 0.11858327388763427 minutes
+2025-10-31 13:03:54,812 -INFO -Ingesting vendor_sales_summary.csv in db
+2025-10-31 13:03:55,197 -INFO -------Ingestion complete for vendor_sales_summary.csv in db-----
+2025-10-31 13:03:55,197 -INFO -
+Total time taken is 0.12627777258555095 minutes
+2025-10-31 13:04:04,864 -INFO -Ingesting purchases.csv in db
+2025-10-31 13:04:53,324 -INFO -------Ingestion complete for purchases.csv in db-----
+2025-10-31 13:04:53,324 -INFO -
+Total time taken is 1.0950613180796305 minutes
+2025-10-31 13:05:23,675 -INFO -Ingesting sales.csv in db
+2025-10-31 13:07:35,272 -DEBUG -Logging setup complete.
+2025-10-31 13:07:35,743 -INFO -Ingesting end_inventory.csv in db
+2025-10-31 13:07:38,677 -INFO -------Ingestion complete for end_inventory.csv in db-----
+2025-10-31 13:07:38,677 -INFO -
+Total time taken is 0.05648492972056071 minutes
+2025-10-31 13:07:39,054 -INFO -Ingesting begin_inventory.csv in db
+2025-10-31 13:07:42,694 -INFO -------Ingestion complete for begin_inventory.csv in db-----
+2025-10-31 13:07:42,694 -INFO -
+Total time taken is 0.12344067494074504 minutes
+2025-10-31 13:07:42,720 -INFO -Ingesting vendor_invoice.csv in db
+2025-10-31 13:07:42,874 -INFO -------Ingestion complete for vendor_invoice.csv in db-----
+2025-10-31 13:07:42,875 -INFO -
+Total time taken is 0.12644412517547607 minutes
+2025-10-31 13:07:42,908 -INFO -Ingesting purchase_prices.csv in db
+2025-10-31 13:07:43,176 -INFO -------Ingestion complete for purchase_prices.csv in db-----
+2025-10-31 13:07:43,177 -INFO -
+Total time taken is 0.13147660891215007 minutes
+2025-10-31 13:07:43,244 -INFO -Ingesting vendor_sales_summary.csv in db
+2025-10-31 13:07:43,683 -INFO -------Ingestion complete for vendor_sales_summary.csv in db-----
+2025-10-31 13:07:43,683 -INFO -
+Total time taken is 0.1399181048075358 minutes
+2025-10-31 13:07:51,241 -INFO -Ingesting purchases.csv in db
+2025-10-31 13:08:42,387 -INFO -------Ingestion complete for purchases.csv in db-----
+2025-10-31 13:08:42,388 -INFO -
+Total time taken is 1.1183298389116922 minutes
+2025-10-31 13:09:10,641 -INFO -Ingesting sales.csv in db
+2025-10-31 13:28:58,596 -DEBUG -Logging setup complete.
+2025-10-31 13:28:59,280 -INFO -Ingesting end_inventory.csv in db
+2025-10-31 13:29:02,441 -INFO -------Ingestion complete for end_inventory.csv in db-----
+2025-10-31 13:29:02,441 -INFO -
+Total time taken is 0.061840800444285075 minutes
+2025-10-31 13:29:02,831 -INFO -Ingesting begin_inventory.csv in db
+2025-10-31 13:29:05,252 -INFO -------Ingestion complete for begin_inventory.csv in db-----
+2025-10-31 13:29:05,252 -INFO -
+Total time taken is 0.10868685642878215 minutes
+2025-10-31 13:29:05,272 -INFO -Ingesting vendor_invoice.csv in db
+2025-10-31 13:29:05,375 -INFO -------Ingestion complete for vendor_invoice.csv in db-----
+2025-10-31 13:29:05,375 -INFO -
+Total time taken is 0.11073643763860067 minutes
+2025-10-31 13:29:05,397 -INFO -Ingesting purchase_prices.csv in db
+2025-10-31 13:29:05,560 -INFO -------Ingestion complete for purchase_prices.csv in db-----
+2025-10-31 13:29:05,561 -INFO -
+Total time taken is 0.11383159557978312 minutes
+2025-10-31 13:29:05,606 -INFO -Ingesting vendor_sales_summary.csv in db
+2025-10-31 13:29:05,878 -INFO -------Ingestion complete for vendor_sales_summary.csv in db-----
+2025-10-31 13:29:05,878 -INFO -
+Total time taken is 0.11912260452906291 minutes
+2025-10-31 13:29:15,921 -INFO -Ingesting purchases.csv in db
+2025-10-31 13:30:13,544 -INFO -------Ingestion complete for purchases.csv in db-----
+2025-10-31 13:30:13,545 -INFO -
+Total time taken is 1.2468906044960022 minutes
+2025-10-31 13:30:48,516 -INFO -Ingesting sales.csv in db
+2025-10-31 13:49:25,799 -DEBUG -Logging setup complete.
+2025-10-31 13:49:26,303 -INFO -Ingesting end_inventory.csv in db
+2025-10-31 13:49:58,010 -DEBUG -Logging setup complete.
+2025-10-31 13:49:58,685 -INFO -Ingesting end_inventory.csv in db
+2025-10-31 13:50:02,286 -INFO -------Ingestion complete for end_inventory.csv in db-----
+2025-10-31 13:50:02,286 -INFO -
+Total time taken is 0.0707474946975708 minutes
+2025-10-31 13:50:02,666 -INFO -Ingesting begin_inventory.csv in db
+2025-10-31 13:50:05,318 -INFO -------Ingestion complete for begin_inventory.csv in db-----
+2025-10-31 13:50:05,319 -INFO -
+Total time taken is 0.12129389842351278 minutes
+2025-10-31 13:50:05,339 -INFO -Ingesting vendor_invoice.csv in db
+2025-10-31 13:50:05,449 -INFO -------Ingestion complete for vendor_invoice.csv in db-----
+2025-10-31 13:50:05,449 -INFO -
+Total time taken is 0.12346547444661458 minutes
+2025-10-31 13:50:05,469 -INFO -Ingesting purchase_prices.csv in db
+2025-10-31 13:50:05,635 -INFO -------Ingestion complete for purchase_prices.csv in db-----
+2025-10-31 13:50:05,636 -INFO -
+Total time taken is 0.1265766978263855 minutes
+2025-10-31 13:50:05,678 -INFO -Ingesting vendor_sales_summary.csv in db
+2025-10-31 13:50:05,936 -INFO -------Ingestion complete for vendor_sales_summary.csv in db-----
+2025-10-31 13:50:05,936 -INFO -
+Total time taken is 0.1315789262453715 minutes
+2025-10-31 13:50:17,084 -INFO -Ingesting purchases.csv in db
+2025-10-31 13:51:17,631 -INFO -------Ingestion complete for purchases.csv in db-----
+2025-10-31 13:51:17,632 -INFO -
+Total time taken is 1.32650998433431 minutes
+2025-10-31 13:51:47,848 -INFO -Ingesting sales.csv in db
+2025-10-31 14:13:41,121 -DEBUG -Logging setup complete.
+2025-10-31 14:13:41,760 -INFO -Ingesting end_inventory.csv in db
+2025-10-31 14:13:51,075 -INFO -------Ingestion complete for end_inventory.csv in db-----
+2025-10-31 14:13:51,075 -INFO -
+Total time taken is 0.16556308269500733 minutes
+2025-10-31 14:13:51,474 -INFO -Ingesting begin_inventory.csv in db
+2025-10-31 14:13:57,714 -INFO -------Ingestion complete for begin_inventory.csv in db-----
+2025-10-31 14:13:57,714 -INFO -
+Total time taken is 0.27621862093607585 minutes
+2025-10-31 14:13:57,740 -INFO -Ingesting vendor_invoice.csv in db
+2025-10-31 14:13:57,842 -INFO -------Ingestion complete for vendor_invoice.csv in db-----
+2025-10-31 14:13:57,842 -INFO -
+Total time taken is 0.2783454577128092 minutes
+2025-10-31 14:13:57,865 -INFO -Ingesting purchase_prices.csv in db
+2025-10-31 14:13:58,033 -INFO -------Ingestion complete for purchase_prices.csv in db-----
+2025-10-31 14:13:58,033 -INFO -
+Total time taken is 0.28152908086776735 minutes
+2025-10-31 14:13:58,084 -INFO -Ingesting vendor_sales_summary.csv in db
+2025-10-31 14:13:58,617 -INFO -------Ingestion complete for vendor_sales_summary.csv in db-----
+2025-10-31 14:13:58,617 -INFO -
+Total time taken is 0.29126173655192056 minutes
+2025-10-31 14:14:09,542 -INFO -Ingesting purchases.csv in db
+2025-10-31 14:15:08,772 -INFO -------Ingestion complete for purchases.csv in db-----
+2025-10-31 14:15:08,772 -INFO -
+Total time taken is 1.4605132341384888 minutes
+2025-10-31 14:15:40,130 -INFO -Ingesting sales.csv in db
+2025-10-31 14:21:31,990 -DEBUG -Logging setup complete.
+2025-10-31 14:21:32,725 -INFO -Ingesting end_inventory.csv in db
+2025-10-31 14:21:36,307 -INFO -------Ingestion complete for end_inventory.csv in db-----
+2025-10-31 14:21:36,307 -INFO -
+Total time taken is 0.07158734401067098 minutes
+2025-10-31 14:21:36,695 -INFO -Ingesting begin_inventory.csv in db
+2025-10-31 14:21:39,340 -INFO -------Ingestion complete for begin_inventory.csv in db-----
+2025-10-31 14:21:39,341 -INFO -
+Total time taken is 0.12215105692545573 minutes
+2025-10-31 14:21:39,357 -INFO -Ingesting vendor_invoice.csv in db
+2025-10-31 14:21:39,468 -INFO -------Ingestion complete for vendor_invoice.csv in db-----
+2025-10-31 14:21:39,468 -INFO -
+Total time taken is 0.12427351872126262 minutes
+2025-10-31 14:21:39,488 -INFO -Ingesting purchase_prices.csv in db
+2025-10-31 14:21:39,655 -INFO -------Ingestion complete for purchase_prices.csv in db-----
+2025-10-31 14:21:39,655 -INFO -
+Total time taken is 0.1273970087369283 minutes
+2025-10-31 14:21:39,696 -INFO -Ingesting vendor_sales_summary.csv in db
+2025-10-31 14:21:39,949 -INFO -------Ingestion complete for vendor_sales_summary.csv in db-----
+2025-10-31 14:21:39,949 -INFO -
+Total time taken is 0.13228952487309772 minutes
+2025-10-31 14:21:49,315 -INFO -Ingesting purchases.csv in db
+2025-10-31 14:22:43,234 -INFO -------Ingestion complete for purchases.csv in db-----
+2025-10-31 14:22:43,235 -INFO -
+Total time taken is 1.1870493133862814 minutes
+2025-10-31 14:23:16,052 -INFO -Ingesting sales.csv in db

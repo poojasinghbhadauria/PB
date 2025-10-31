@@ -28,13 +28,6 @@ The insights generated support **strategic procurement decisions**, **cost optim
 
 ---
 
-## 📂 Dataset
-
-The full dataset is hosted on **Kaggle** due to GitHub size constraints.  
-
-**Kaggle Dataset:** [Vendor Performance Data](https://www.kaggle.com/datasets/harshmadhavan/vendor-performance-analysis)
-
-kaggle datasets download -d harshmadhavan/vendor-performance-analysis -p data/ --unzip
 📁 Files Included
 
 purchases.csv
@@ -54,10 +47,9 @@ vendor_sales_summary.csv
 
 ⚡ Usage Instructions
 
-Download the dataset from Kaggle (see Dataset section above).
+Download the dataset/.csv files attached here.
 
 Run Python scripts 
-
 
 Open the Power BI dashboard:
 
